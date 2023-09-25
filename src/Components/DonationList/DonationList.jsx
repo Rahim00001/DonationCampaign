@@ -17,7 +17,7 @@ const DonationList = () => {
     return (
         <div>
             <h2 className="text-3xl text-center font-semibold">Total donation: {donetion.length}</h2>
-            <div>
+            <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 w-[80%] lg:w-[90%] mx-auto">
                 {
                     donetion.map(donate => <ListCard key={donate.id} donate={donate}></ListCard>)
                 }
