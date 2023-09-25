@@ -22,9 +22,6 @@ const DonationDetiles = () => {
             'success'
         )
     }
-    // const handleAlert = () => {
-    //    
-    // }
     return (
         <div className="w-[90%] mx-auto">
             <div>

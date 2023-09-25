@@ -12,6 +12,7 @@ const DonationList = () => {
             const listDonation = donations.filter(donation => storedDonationIds.includes(donation.id))
             setDonation(listDonation)
             // console.log(donations, storedDonationIds, listDonation);
+            // console.log(listDonation);
         }
     }, [])
     return (

@@ -1,4 +1,3 @@
-
 const getStoredDonations = () => {
     const storedDonation = localStorage.getItem('my-donations');
     if (storedDonation) {

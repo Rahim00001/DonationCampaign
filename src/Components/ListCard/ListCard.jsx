@@ -1,5 +1,3 @@
-import { Link } from "react-router-dom";
-
 const ListCard = ({ donate }) => {
     const { price, picture_square, title, category, card_bg, category_bg, text_bg } = donate || {}
     return (
