@@ -1,7 +1,7 @@
 [
     {
-        "picture": "https://example.com/picture1.jpg",
-        "picture_square": "https://example.com/picture1_square.jpg",
+        "picture": "https://i.ibb.co/r0XPCst/Health.png",
+        "picture_square": "https://i.ibb.co/qyt2Ybx/Rectangle-4284.png",
         "title": "Health Watch",
         "category_bg": "#0052FF",
         "card_bg": "#0052FF26",
@@ -12,8 +12,8 @@
         "id": 1
     },
     {
-        "picture": "https://example.com/picture2.jpg",
-        "picture_square": "https://example.com/picture2_square.jpg",
+        "picture": "https://i.ibb.co/brS9ghL/Education.png",
+        "picture_square": "https://i.ibb.co/JtWBV3G/Rectangle-4287-1.png",
         "title": "Education Bag",
         "category_bg": "#FF444A",
         "card_bg": "#FF444A26",
@@ -24,8 +24,8 @@
         "id": 2
     },
     {
-        "picture": "https://example.com/picture3.jpg",
-        "picture_square": "https://example.com/picture3_square.jpg",
+        "picture": "https://i.ibb.co/W2GmRjW/Clothing.png",
+        "picture_square": "https://i.ibb.co/271ftgy/Rectangle-4287.png",
         "title": "Clothing Blanket",
         "category_bg": "#79C23F",
         "card_bg": "#79C23F26",
@@ -36,8 +36,8 @@
         "id": 3
     },
     {
-        "picture": "https://example.com/picture4.jpg",
-        "picture_square": "https://example.com/picture4_square.jpg",
+        "picture": "https://i.ibb.co/2KfwjxL/Food.png",
+        "picture_square": "https://i.ibb.co/Fw5mZpg/Rectangle-4287-2.png",
         "title": "Food Headphones",
         "category_bg": "#F87147",
         "card_bg": "#F8714726",
@@ -48,8 +48,8 @@
         "id": 4
     },
     {
-        "picture": "https://example.com/picture5.jpg",
-        "picture_square": "https://example.com/picture5_square.jpg",
+        "picture": "https://i.ibb.co/r0XPCst/Health.png",
+        "picture_square": "https://i.ibb.co/qyt2Ybx/Rectangle-4284.png",
         "title": "Health Camera",
         "category_bg": "#0052FF",
         "card_bg": "#0052FF26",
@@ -60,8 +60,8 @@
         "id": 5
     },
     {
-        "picture": "https://example.com/picture6.jpg",
-        "picture_square": "https://example.com/picture6_square.jpg",
+        "picture": "https://i.ibb.co/brS9ghL/Education.png",
+        "picture_square": "https://i.ibb.co/JtWBV3G/Rectangle-4287-1.png",
         "title": "Education Coffee Maker",
         "category_bg": "#FF444A",
         "card_bg": "#FF444A26",
@@ -72,8 +72,8 @@
         "id": 6
     },
     {
-        "picture": "https://example.com/picture7.jpg",
-        "picture_square": "https://example.com/picture7_square.jpg",
+        "picture": "https://i.ibb.co/W2GmRjW/Clothing.png",
+        "picture_square": "https://i.ibb.co/271ftgy/Rectangle-4287.png",
         "title": "Clothing Necklace",
         "category_bg": "#79C23F",
         "card_bg": "#79C23F26",
@@ -84,8 +84,8 @@
         "id": 7
     },
     {
-        "picture": "https://example.com/picture8.jpg",
-        "picture_square": "https://example.com/picture8_square.jpg",
+        "picture": "https://i.ibb.co/2KfwjxL/Food.png",
+        "picture_square": "https://i.ibb.co/Fw5mZpg/Rectangle-4287-2.png",
         "title": "Food Cooking Set",
         "category_bg": "#F87147",
         "card_bg": "#F8714726",
@@ -96,8 +96,8 @@
         "id": 8
     },
     {
-        "picture": "https://example.com/picture9.jpg",
-        "picture_square": "https://example.com/picture9_square.jpg",
+        "picture": "https://i.ibb.co/r0XPCst/Health.png",
+        "picture_square": "https://i.ibb.co/qyt2Ybx/Rectangle-4284.png",
         "title": "Health Pottery",
         "category_bg": "#0052FF",
         "card_bg": "#0052FF26",
@@ -108,8 +108,8 @@
         "id": 9
     },
     {
-        "picture": "https://example.com/picture10.jpg",
-        "picture_square": "https://example.com/picture10_square.jpg",
+        "picture": "https://i.ibb.co/brS9ghL/Education.png",
+        "picture_square": "https://i.ibb.co/JtWBV3G/Rectangle-4287-1.png",
         "title": "Education Sunglasses",
         "category_bg": "#FF444A",
         "card_bg": "#FF444A26",
@@ -120,8 +120,8 @@
         "id": 10
     },
     {
-        "picture": "https://example.com/picture12.jpg",
-        "picture_square": "https://example.com/picture12_square.jpg",
+        "picture": "https://i.ibb.co/W2GmRjW/Clothing.png",
+        "picture_square": "https://i.ibb.co/271ftgy/Rectangle-4287.png",
         "title": "Clothing Slippers",
         "category_bg": "#79C23F",
         "card_bg": "#79C23F26",
@@ -132,8 +132,8 @@
         "id": 11
     },
     {
-        "picture": "https://example.com/picture8.jpg",
-        "picture_square": "https://example.com/picture8_square.jpg",
+        "picture": "https://i.ibb.co/2KfwjxL/Food.png",
+        "picture_square": "https://i.ibb.co/Fw5mZpg/Rectangle-4287-2.png",
         "title": "Food Cooking Set",
         "category_bg": "#F87147",
         "card_bg": "#F8714726",
