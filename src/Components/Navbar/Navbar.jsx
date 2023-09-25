@@ -19,12 +19,12 @@ const Navbar = () => {
                     </li>
                     <li>
                         <NavLink
-                            to="/favorites"
+                            to="/donationList"
                             className={({ isActive, isPending }) =>
                                 isPending ? "pending" : isActive ? "text-[#FF444A] text-lg underline font-bold" : "text-lg font-semiboldbold"
                             }
                         >
-                            Favorites
+                            Donation
                         </NavLink>
                     </li>
                     <li>
