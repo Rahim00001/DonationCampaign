@@ -9,11 +9,14 @@ import Root from './Components/Root/Root';
 import Home from './Components/Home/Home';
 import Favorites from './Components/Favorites/Favorites';
 import Statistics from './Components/Statistics/Statistics';
+import DonationDetiles from './Components/DonationDetiles/DonationDetiles';
+import ErrorPage from './Components/Error/ErrorPage';
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Root></Root>,
+    errorElement: <ErrorPage></ErrorPage>,
     children: [
       {
         path: '/',
@@ -28,6 +31,10 @@ const router = createBrowserRouter([
       {
         path: '/statistics',
         element: <Statistics></Statistics>
+      },
+      {
+        path: '/detiles',
+        element: <DonationDetiles></DonationDetiles>
       }
     ]
   },
