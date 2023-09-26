@@ -53,7 +53,7 @@ const Statistics = () => {
                 </Pie>
                 <Tooltip />
             </PieChart>
-            <div className="flex gap-5">
+            <div className="flex flex-col md:flex-row gap-5 mx-5">
                 <div className="flex gap-2">
                     <p className="text-lg">Your Donation</p>
                     <button className="bg-[#FFBB28] w-20"></button>

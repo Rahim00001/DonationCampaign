@@ -33,7 +33,7 @@ const DonationList = () => {
             </div>
             <div>
                 {donetion.length > 4 && (
-                    <div className="flex justify-center">
+                    <div className="flex justify-center mb-5">
                         <button id="btn" onClick={() => setShow(!show)} className="px-5 py-2 bg-[#009444] rounded text-white font-semibold">See All</button>
                     </div>
                 )}
