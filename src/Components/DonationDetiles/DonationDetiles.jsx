@@ -23,10 +23,10 @@ const DonationDetiles = () => {
         )
     }
     return (
-        <div className="w-[90%] mx-auto">
+        <div className="w-[80%] mx-auto">
             <div>
                 <div className="relative">
-                    <img className="w-full  my-8 rounded-lg" src={detiles.picture} alt="" />
+                    <img className="w-full lg:h-[600px]  my-8 rounded-lg" src={detiles.picture} alt="" />
                     <div className="overlay overlay_1">
                         <button onClick={handleAddToDonate} className="btn absolute -mt-6 -ml-4 border-none text-white font-semibold" style={{ backgroundColor: detiles.text_bg }}>Donate ${detiles.price}</button>
                     </div>
