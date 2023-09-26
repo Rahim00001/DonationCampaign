@@ -4,9 +4,9 @@ import DonationCard from "../DonationCard/DonationCard";
 const AllDonations = ({ allDonations }) => {
     console.log(allDonations);
     return (
-        <div className="py-5">
-            <h1 className="text-3xl text-center">All categories Donations</h1>
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-7 my-10">
+        <div className="py-5 max-w-[1340px] mx-auto px-5">
+            <h1 className="text-3xl text-center font-semibold pl-6 md:pl-[1px]">All categories Donations</h1>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-7 my-10 mx-auto pl-6 md:pl-[1px]">
                 {
                     allDonations?.map(donation => <DonationCard key={donation.id} donation={donation}></DonationCard>)
                 }
