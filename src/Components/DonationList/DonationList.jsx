@@ -16,8 +16,6 @@ const DonationList = () => {
         if (donations.length > 0) {
             const listDonation = donations.filter(donation => storedDonationIds.includes(donation.id))
             setDonation(listDonation)
-            // console.log(donations, storedDonationIds, listDonation);
-            // console.log(listDonation);
         }
     }, []);
     console.log(show);
@@ -38,9 +36,6 @@ const DonationList = () => {
                     </div>
                 )}
             </div>
-            {/* <div className="flex justify-center">
-                <button className="px-5 py-2 bg-[#009444] rounded text-white font-semibold">See All</button>
-            </div> */}
         </div>
     );
 };

@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 const ListCard = ({ donate }) => {
     const { price, picture_square, title, category, card_bg, category_bg, text_bg } = donate || {}
     return (
