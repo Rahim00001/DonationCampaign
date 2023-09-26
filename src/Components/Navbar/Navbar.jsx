@@ -4,14 +4,14 @@ import logo from '../Logo/Logo.png'
 const Navbar = () => {
     return (
         <div>
-            <nav className="flex items-center justify-between py-5">
-                <img src={logo} alt="" />
+            <nav className="flex items-center justify-between py-5 px-5 max-w-[1340px] mx-auto">
+                <img src={logo} alt="logo" className="w-24 md:w-44" />
                 <ul className="flex gap-5">
                     <li>
                         <NavLink
                             to="/"
                             className={({ isActive, isPending }) =>
-                                isPending ? "pending" : isActive ? "text-[#FF444A] text-lg underline font-bold" : "text-lg font-semiboldbold"
+                                isPending ? "pending" : isActive ? "text-[#FF444A]  md:text-lg underline font-bold" : "text-lg font-semiboldbold"
                             }
                         >
                             Home
@@ -21,7 +21,7 @@ const Navbar = () => {
                         <NavLink
                             to="/donationList"
                             className={({ isActive, isPending }) =>
-                                isPending ? "pending" : isActive ? "text-[#FF444A] text-lg underline font-bold" : "text-lg font-semiboldbold"
+                                isPending ? "pending" : isActive ? "text-[#FF444A] md:text-lg underline font-bold" : "text-lg font-semiboldbold"
                             }
                         >
                             Donation
@@ -31,7 +31,7 @@ const Navbar = () => {
                         <NavLink
                             to="/statistics"
                             className={({ isActive, isPending }) =>
-                                isPending ? "" : isActive ? "text-[#FF444A] text-lg underline font-bold" : "text-lg font-semiboldbold"
+                                isPending ? "" : isActive ? "text-[#FF444A] md:text-lg underline font-bold" : "text-lg font-semiboldbold"
                             }
                         >
                             Statistics
